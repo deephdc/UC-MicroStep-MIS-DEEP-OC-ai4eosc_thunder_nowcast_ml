@@ -5,7 +5,7 @@ version: '2.3'
 
 services:
     ai4eosc_thunder_nowcast_ml:
-      image: microstep/deep-oc-ai4eosc_thunder_nowcast_ml
+      image: deephdc/UC-MicroStep-MIS-DEEP-OC-ai4eosc_thunder_nowcast_ml
       ports:
         - 5000:5000
         - 6006:6006
@@ -13,7 +13,7 @@ services:
 
 
     ai4eosc_thunder_nowcast_ml-gpu:
-      image: microstep/deep-oc-ai4eosc_thunder_nowcast_ml:gpu
+      image: deephdc/UC-MicroStep-MIS-DEEP-OC-ai4eosc_thunder_nowcast_ml:gpu
       runtime: nvidia
       ports:
         - 5000:5000
