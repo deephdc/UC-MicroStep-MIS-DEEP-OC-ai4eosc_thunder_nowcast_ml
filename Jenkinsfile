@@ -8,7 +8,7 @@ pipeline {
     }
 
     environment {
-        dockerhub_repo = "deephdc/UC-MicroStep-MIS-DEEP-OC-ai4eosc_thunder_nowcast_ml"
+        dockerhub_repo = "deephdc/uc-microstep-mis-deep-oc-ai4eosc_thunder_nowcast_ml"
         base_cpu_tag = "2.9.1"
         base_gpu_tag = "2.9.1-gpu"
     }
