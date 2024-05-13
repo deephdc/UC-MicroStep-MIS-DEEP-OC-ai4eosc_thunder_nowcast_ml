@@ -67,7 +67,7 @@ the [OpenAPI (Swagger)](https://www.openapis.org/) documentation page.
 ├─ metadata.json          Defines information propagated to the [DEEP Open Catalog](https://marketplace.deep-hybrid-datacloud.eu)
 ```
 
-You can validate the `metadata.json` before making a git push using: 
+You can validate the `metadata.json` before making a git push using:
 ```shell
 pip install git+https://github.com/deephdc/schema4apps
 deep-app-schema-validator metadata.json
