@@ -1,3 +1,8 @@
+---
+# The Repository is ARCHIVED!
+### it is now maintained in https://github.com/MicroStep-MIS/thunderstorm-nowcast-microstep <br>(mirrored to https://github.com/ai4os-hub/thunderstorm-nowcast-microstep)
+---
+
 <div align="center">
 <img src="https://marketplace.deep-hybrid-datacloud.eu/images/logo-deep.png" alt="logo" width="300"/>
 </div>
